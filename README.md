@@ -1,3 +1,11 @@
+# About this fork
+
+Add visionOS support:
+
+```bash
+swift create-xcframework --platform visionos
+```
+
 # swift-create-xcframework
 
 swift-create-xcframework is a very simple tool designed to wrap `xcodebuild` and the process of creating multiple frameworks for a Swift Package and merging them into a single XCFramework.
